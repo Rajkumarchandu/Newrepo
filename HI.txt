@@ -4,3 +4,8 @@ class Student:
         self.password = password
         print(self.name)
         print(self.password)
+
+
+
+
+story is incompleted
